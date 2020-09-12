@@ -74,6 +74,7 @@ select{
   text-indent: 29px;
 }
 
-
-  
-
+.first-name {
+  background:#2f2f2f; color: #ffffff;
+  outline:  none;
+}
