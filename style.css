@@ -18,10 +18,7 @@ table {
     text-align: left;
 }
 
-.first-name {
-  background:#2f2f2f; color: #ffffff;
-  outline:  none;
-}
+
 .old {
   color: #7a7a7a;
   }
@@ -79,3 +76,7 @@ select{
   text-indent: 29px;
 }
 
+.first-name {
+  background:#2f2f2f; color: #ffffff;
+  outline:  none;
+}
